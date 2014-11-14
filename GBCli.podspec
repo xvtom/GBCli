@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author       = { 'Tomaz Kragelj' => 'tkragelj@gmail.com' }
   s.source       = { :git => 'https://github.com/tomaz/GBCli.git', :tag => '1.1' }
-  s.platform     = :osx, '10.8'
+  s.platform     = :osx, '10.7'
   s.source_files = 'GBCli/src'
   s.requires_arc = true
 end
